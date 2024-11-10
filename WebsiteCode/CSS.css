@@ -1,0 +1,109 @@
+/*Structure style*/
+
+body{
+    background-color: rgb(40, 40, 40);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+header {
+    background-color:brown;
+    display: flex;
+    padding: 0px 0px 0px 50px;
+}
+
+#title{
+    padding: 0px 0px 0px 30px;
+}
+
+#allInfo{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    padding: 20px 0px 0px 20px;
+}
+
+section{
+    padding: 30px 30px 0px 30px;
+}
+
+aside{
+    background-color:brown;
+    padding: 0px 30px 30px 30px;
+}
+
+
+
+
+
+/*Text style*/
+
+header h1{
+    font-size: 3rem;
+    padding: 20px 0px 0px 20px;
+}
+
+header h3{
+    padding: 0px 0px 30px 30px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+h3{
+    padding: 50px 0px 0px 0px;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+section h4{
+    font-size: 1.2rem;
+}
+
+/*************************/
+
+header img{
+    border-radius: 50%;
+    padding: 10px 10px 10px 10px;
+}
+
+aside h3{
+    font-size: 1.5rem;
+}
+
+#skills li{
+    padding: 10px 10px 10px 10px;
+    font-size: 1.2rem;
+}
+
+#laboralExperience{
+    padding: 0px 0px 50px 0px;
+}
+
+.contact{
+    color:cornflowerblue;
+}
+
+.contact p{
+    font-size: 1.2rem;
+    padding: 0px 0px 0px 0px;
+}
+
+a{
+    color:cornflowerblue;
+    padding: 0px 0px 0px 0px;
+}
+
+.date{
+    font-style: italic;
+}
+
+.level{
+    font-style: italic;
+    padding: 0px 0px 0px 15px;
+}
